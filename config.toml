@@ -1,0 +1,51 @@
+title = "Baked Idea"
+baseURL = "http://localhost:1313"
+tags = ["portfolio", "web design", "blog"]
+languageCode = "en-UK"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disqusShortname = ""
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Params]
+    tagline = "Baked Idea"
+    author = "Richard Sage"
+    description = ""
+    logoBig = "bulblarge.png"
+    logoSmall = "bulb.png"
+    favicon = ""
+    opengraphImage = ""
+    twitter = "BakedIdea"
+    linkedin = ""
+    github = ""
+    email = "sagey79@gmail.com"
+    googleTagManager = ""
+    highlightJS = true
+    copyright = true
+    credit = false
+    customCSS = false
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
+
+[permalinks]
+    gallery = "/" # Redirect gallery index to home page
+
+[[menu.main]]
+    name = "About"
+    url  = "/#about"
+    weight = 1
+[[menu.main]]
+    name = "Stuff"
+    url  = "/#stuff"
+    weight = 4
+[[menu.main]]
+    name = "Blog"
+    url  = "/#blog"
+    weight = 2
+[[menu.main]]
+    name = "Contact"
+    url  = "/#contact"
+    weight = 5
