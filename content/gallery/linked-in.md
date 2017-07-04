@@ -1,5 +1,5 @@
 +++
-date = 2017-07-02T20:06:09+01:00
+date = 2017-07-02T20:06:09Z
 title = "Linked In"
 image = "linked.png"
 alt = "Linked In"
