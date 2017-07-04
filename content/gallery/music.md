@@ -1,5 +1,5 @@
 +++
-date = 2017-06-30T22:20:42+01:00
+date = 2017-06-30T22:20:42Z
 title = "Music"
 image = "music.png"
 alt = "Music"
