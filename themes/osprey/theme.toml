@@ -1,0 +1,12 @@
+name = "Osprey"
+license = "GNU3.0"
+licenselink = ""
+description = ""
+homepage = ""
+tags = ["blog", "portfolio", "gallery", "minimalist", "responsive", "flexbox"]
+features = ["blog", "portfolio", "google analytics"]
+min_version = 0.24.1
+
+[author]
+    name = "Richard Sage"
+    homepage = ""
