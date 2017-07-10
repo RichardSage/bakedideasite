@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard Sage</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Richard Sage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-UK</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Sun, 02 Jul 2017 20:24:24 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Podcast</title>
+      <link>http://localhost:1313/podcast/</link>
+      <pubDate>Sun, 02 Jul 2017 20:24:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/podcast/</guid>
+      <description> Coming Soon! </description>
+    </item>
+    
+    <item>
+      <title>Linked In</title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Sun, 02 Jul 2017 20:06:09 +0000</pubDate>
+      
+      <guid>http://localhost:1313/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Fri, 30 Jun 2017 22:20:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Fri, 30 Jun 2017 21:04:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Blog</title>
+      <link>http://localhost:1313/blog/new-blog/</link>
+      <pubDate>Fri, 30 Jun 2017 21:04:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/new-blog/</guid>
+      <description>This the first post on my new blog. I&amp;rsquo;ve decided to move away from Medium for a few of reasons:
+ Whilst i really like Medium, it&amp;rsquo;ll run out of cash at some point or sacrifice its users to avoid running out of cash. So i figured i&amp;rsquo;d pre-empt this eventuality and move my blog. Over time i&amp;rsquo;ll move most of my old posts here. I quite like the idea of &amp;lsquo;owning&amp;rsquo; my own content so to speak Creating this blog gave me an excuse to try out creating a static site using hugo and play around with some components of AWS that i haven&amp;rsquo;t tried before (i&amp;rsquo;ll probably blog about this soon) I wanted to create more of a single online presence, bringing together lots of the various bits of content i&amp;rsquo;ve produced, whether blog posts, t-shirts, ebooks, songs, etc  I&amp;rsquo;ll see how it goes, who knows i might get bored of doing the basic admin of the site and move back to medium, or go for a non-static platform, for now this will do.</description>
+    </item>
+    
+    <item>
+      <title>T-Shirts</title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Fri, 30 Jun 2017 21:04:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hello! I&amp;rsquo;m Richard Sage, (Baked Idea on Twitter). I do Strategy, Architecture, Digital Business Transformation and consulting.
+I also do some other stuff.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Richard Sage</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Richard Sage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-UK</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Fri, 30 Jun 2017 21:04:39 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Blog</title>
+      <link>http://localhost:1313/blog/new-blog/</link>
+      <pubDate>Fri, 30 Jun 2017 21:04:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/new-blog/</guid>
+      <description>This the first post on my new blog. I&amp;rsquo;ve decided to move away from Medium for a few of reasons:
+ Whilst i really like Medium, it&amp;rsquo;ll run out of cash at some point or sacrifice its users to avoid running out of cash. So i figured i&amp;rsquo;d pre-empt this eventuality and move my blog. Over time i&amp;rsquo;ll move most of my old posts here. I quite like the idea of &amp;lsquo;owning&amp;rsquo; my own content so to speak Creating this blog gave me an excuse to try out creating a static site using hugo and play around with some components of AWS that i haven&amp;rsquo;t tried before (i&amp;rsquo;ll probably blog about this soon) I wanted to create more of a single online presence, bringing together lots of the various bits of content i&amp;rsquo;ve produced, whether blog posts, t-shirts, ebooks, songs, etc  I&amp;rsquo;ll see how it goes, who knows i might get bored of doing the basic admin of the site and move back to medium, or go for a non-static platform, for now this will do.</description>
+    </item>
+    
+  </channel>
+</rss>
