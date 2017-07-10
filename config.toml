@@ -1,5 +1,5 @@
 title = "Richard Sage"
-baseURL = "http://localhost:1313"
+baseURL = ""
 tags = ["strategy", "Digital transformation", "architecture", "blog"]
 languageCode = "en-UK"
 config = "config.toml"
