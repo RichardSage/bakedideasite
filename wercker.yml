@@ -8,6 +8,6 @@ build:
         code: |
             $(git clone https://github.com/tomanistor/osprey.git ./themes/osprey)
     - arjen/hugo-build:
-        version: "0.14"
+        version: "0.24.1"
         theme: osprey
         flags: --buildDrafts=true

@@ -1,6 +1,6 @@
-title = "Baked Idea"
+title = "Richard Sage"
 baseURL = "http://localhost:1313"
-tags = ["portfolio", "web design", "blog"]
+tags = ["strategy", "Digital transformation", "architecture", "blog"]
 languageCode = "en-UK"
 config = "config.toml"
 theme = "osprey"
@@ -10,14 +10,14 @@ disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-    tagline = "Baked Idea"
+    tagline = "Richard Sage"
     author = "Richard Sage"
     description = ""
     logoBig = "bulblarge.png"
     logoSmall = "bulb.png"
     favicon = ""
     opengraphImage = ""
-    twitter = "BakedIdea"
+    twitter = "sage_re"
     linkedin = ""
     github = ""
     email = "sagey79@gmail.com"
@@ -39,7 +39,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     weight = 1
 [[menu.main]]
     name = "Stuff"
-    url  = "/#stuff"
+    url  = "/#work"
     weight = 4
 [[menu.main]]
     name = "Blog"

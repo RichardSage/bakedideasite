@@ -1,6 +1,6 @@
 ---
 title: "Podcast"
-date: 2017-07-02T20:24:24+01:00
+date: 2017-07-02T20:24:24Z
 draft: false
 ---
 
