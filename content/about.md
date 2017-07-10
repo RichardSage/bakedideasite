@@ -9,6 +9,6 @@ draft = false
 I'm [Richard Sage](https://www.linkedin.com/in/richardsage), ([Baked Idea](https://twitter.com/sage_re) on [Twitter](https://twitter.com/sage_re)).
 I do Strategy, Architecture, Digital Business Transformation and consulting
 
-I also do some other [stuff](/#work)
+I also do some other [stuff](/#work).
 
 
