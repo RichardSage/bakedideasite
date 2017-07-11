@@ -1,5 +1,5 @@
 title = "Richard Sage"
-baseURL = "https://richardsage.github.io/bakedideasite/"
+baseURL = "http://sage.re/"
 tags = ["strategy", "Digital transformation", "architecture", "blog"]
 languageCode = "en-UK"
 config = "config.toml"

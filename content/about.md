@@ -6,8 +6,8 @@ draft = false
 
 ## Hello!
 ![Photo of Richard Sage](/images/richardsage.jpg)
-I'm [Richard Sage](https://www.linkedin.com/in/richardsage), ([Baked Idea](https://twitter.com/sage_re) on [Twitter](https://twitter.com/sage_re)).
-I do Strategy, Architecture, Digital Business Transformation and consulting.
+I am [Richard Sage](https://www.linkedin.com/in/richardsage), ([@sage_re](https://twitter.com/sage_re) on [Twitter](https://twitter.com/sage_re)).
+I do Strategy, Architecture, Digital Business Transformation and IT Consulting.
 
 I also do some other [stuff](/#work).
 
