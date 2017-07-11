@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://richardsage.github.io/bakedideasite/podcast/</loc>
+    <loc>http://sage.re/podcast/</loc>
     <lastmod>2017-07-02T20:24:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://richardsage.github.io/bakedideasite/blog/new-blog/</loc>
+    <loc>http://sage.re/blog/new-blog/</loc>
     <lastmod>2017-06-30T21:04:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://richardsage.github.io/bakedideasite/about/</loc>
+    <loc>http://sage.re/about/</loc>
     <lastmod>2017-06-27T17:39:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://richardsage.github.io/bakedideasite/blog/</loc>
+    <loc>http://sage.re/blog/</loc>
     <lastmod>2017-06-30T21:04:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://richardsage.github.io/bakedideasite/</loc>
+    <loc>http://sage.re/</loc>
     <lastmod>2017-07-02T20:24:24+00:00</lastmod>
     <priority>0</priority>
   </url>
