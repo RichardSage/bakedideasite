@@ -12,3 +12,4 @@ This the first post on my new blog. I've decided to move away from [Medium](http
 4. I wanted to create more of a single online presence, bringing together lots of the various bits of content i've produced, whether blog posts, t-shirts, ebooks, songs, etc
 
 I'll see how it goes, who knows i might get bored of doing the basic admin of the site and move back to medium, or go for a non-static platform, for now this will do.
+blah blah

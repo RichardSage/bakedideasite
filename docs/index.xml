@@ -6,7 +6,7 @@
     <description>Recent content on Richard Sage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-UK</language>
-    <copyright>true</copyright>
+    <copyright>false</copyright>
     <lastBuildDate>Sun, 02 Jul 2017 20:24:24 +0000</lastBuildDate>
     
 	<atom:link href="http://sage.re/index.xml" rel="self" type="application/rss+xml" />
@@ -74,7 +74,7 @@
       
       <guid>http://sage.re/about/</guid>
       <description>Hello! I am Richard Sage, (@sage_re on Twitter). I do Strategy, Architecture, Digital Business Transformation and IT Consulting.
-I also do some other stuff.</description>
+I also do other stuff.</description>
     </item>
     
   </channel>
